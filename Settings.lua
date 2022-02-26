@@ -4,9 +4,15 @@
 
 -- Set your own ranks
 
+--[Ranks]
+
+
 ----------------------
 
 -- Set your own commands.
+
+--[Comamnds]
+
 
 -----------------------
 
